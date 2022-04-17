@@ -1,7 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-23:43:59	3672/3672	---M--	404	error ('Not%20Found')	text/html	date:Sun,%2017%20Apr%202022%2021:43:57%20GMT	https://meowclient.club/robots.txt		(from )
-23:43:59	4061/4061	---MCZ	200	added ('OK')	text/html	date:Sun,%2010%20Apr%202022%2019:48:33%20GMT	https://meowclient.club/	C:/My%20Web%20Sites/fds/meowclient.club/index.html	(from )
-23:44:00	19019/19019	---M--	200	added ('OK')	image/png	etag:%22eb69d63b85fb4a627df6ab0edc1a66d7%22	https://cdn.glitch.me/00fef02b-ad55-4fea-b75a-0db8e0263d1e/meowlogo.png?v=1641061003076	C:/My%20Web%20Sites/fds/cdn.glitch.me/00fef02b-ad55-4fea-b75a-0db8e0263d1e/meowlogo9b21.png	(from https://meowclient.club/)
-23:44:01	5470/5470	---MCZ	200	added ('OK')	text/css	etag:W/%22b4c6eb437557fadde8de2f732725de6a%22	https://meowclient.club/assets/css/main.css	C:/My%20Web%20Sites/fds/meowclient.club/assets/css/main.css	(from https://meowclient.club/)
-23:44:01	111/111	---MCZ	200	added ('OK')	application/javascript	etag:%2216f3b582623fdb52feae8d2a68e35a5f%22	https://meowclient.club/assets/js/videoPlayer.js	C:/My%20Web%20Sites/fds/meowclient.club/assets/js/videoPlayer.js	(from https://meowclient.club/)
-23:44:01	129/129	---MCZ	200	added ('OK')	text/html	date:Sun,%2010%20Apr%202022%2019:48:33%20GMT	https://meowclient.club/download.html	C:/My%20Web%20Sites/fds/meowclient.club/download.html	(from https://meowclient.club/)
